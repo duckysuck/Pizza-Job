@@ -1,2 +1,2 @@
 # Pizza-Job
-This is my discord : https://discord.gg/SARNkKffXb
+Forked from a developer in Vietnam - He's shared a bunch of his previously paid for scripts.
