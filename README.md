@@ -1,2 +1,2 @@
 # Pizza-Job
-Forked from a developer in Vietnam - He's shared a bunch of his previously paid for scripts.
+Forked from a dude in vietname who forked it from someone else, likely I'll rewrite most of it.
